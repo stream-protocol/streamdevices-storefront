@@ -8,7 +8,10 @@ Storefront template
 </h1>
 <p align="center">
 This repo provides the skeleton to get you started with using <a href="https://github.com/medusajs/medusa">Medusa</a>. Follow the steps below to get ready.
-</p>
+  </a>
+<p align="center">
+  <a href="[![Netlify Status](https://api.netlify.com/api/v1/badges/0593fd4a-de10-408f-abc3-64276bfb92de/deploy-status)](https://app.netlify.com/sites/streamdevices-storefront-demo/deploys)">
+  </a>
 <p align="center">
   <a href="https://github.com/medusajs/medusa/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Medusa is released under the MIT license." />
